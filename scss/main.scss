@@ -1,0 +1,12 @@
+@import './_base/variables.scss';
+@import'./_base/extend';
+
+
+@import'./section/header';
+@import'./section/main';
+@import'./section/footer';
+
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }

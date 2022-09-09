@@ -1,0 +1,3 @@
+multimedia:
+- converti todas las imagenes de jpg a png
+- reduje todas las imagenes por igual tamaño
